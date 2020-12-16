@@ -39,27 +39,27 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.HybridShapeTypeLib">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.HybridShapeTypeLib.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.HybridShapeTypeLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.INFITF">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.INFITF.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.INFITF.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.KnowledgewareTypeLib">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.KnowledgewareTypeLib.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.KnowledgewareTypeLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.MECMOD">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.MECMOD.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.MECMOD.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.PARTITF">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.PARTITF.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.PARTITF.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Interop.ProductStructureTypeLib">
-      <HintPath>C:\Users\Administrator\Desktop\新建文件夹 (3)\Interop.ProductStructureTypeLib.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\CATIAV5 Verweise Zahnrad\CATIAV5 Verweise Zahnrad\Interop.ProductStructureTypeLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
